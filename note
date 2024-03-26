@@ -1,0 +1,3 @@
+-- phương thức belongsToMany --
+
+-- trường hợp sử dụng : dùng để xác định mối quan hệ nhiều - nhiều thông qua bảng phụ
